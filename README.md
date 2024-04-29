@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 21.4.24
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: JESU SMARTIA A
+### Register Number: 212223110016
+
+![ex3](https://github.com/jesu-smartia05/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/148514819/3f84b793-0255-44fd-82bb-ef7e2512edf7)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
